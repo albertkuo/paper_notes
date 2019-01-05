@@ -1,2 +1,4 @@
 # paper_notes
-Notes on research papers I read
+Inspired by [Daniel Takeshi](https://github.com/DanielTakeshi/Paper_Notes). 
+
+In an effort to be more systematic and diligent about reading papers, I'm organizing my notes for research papers that I've read in this repo.

@@ -4,7 +4,9 @@
 >
 > Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588146/
 
-Contribution: They argue that a major part of the variation in cancer risk between tissue types is due to DNA replication. As expected, there is a strong correlation between the number of stem cell divisions and lifetime cancer risk by tissue type.
+Contribution: 
+
+* They argue that a major part of the variation in cancer risk between tissue types is due to DNA replication. As expected, there is a strong correlation between the number of stem cell divisions and lifetime cancer risk by tissue type.
 
 Methodology: 
 

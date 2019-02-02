@@ -1,6 +1,6 @@
 # Deciphering Signatures of Mutational Processes Operative in Human Cancer
 
-> Author: Alexandrov, et al., 2013
+> Author: Alexandrov et al, 2013
 >
 > Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588146/
 

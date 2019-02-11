@@ -5,4 +5,5 @@ In an effort to be more systematic and diligent about reading papers, I'm organi
 
 * [Statistical Modeling: The Two Cultures](https://github.com/albertkuo/paper_notes/blob/master/notes/Breiman%20Statistical%20Science%202001.md) / Breiman / 2001
 * [Variation in cancer risk among tissues can be explained by the number of stem cell divisions](https://github.com/albertkuo/paper_notes/blob/master/notes/Tomasetti%20Science%202015.md) / Tomasetti / 2015
+* [Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention](https://github.com/albertkuo/paper_notes/blob/master/notes/Tomasetti%20Science%202017.md) / Tomasetti / 2017
 

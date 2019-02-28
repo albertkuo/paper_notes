@@ -2,7 +2,7 @@
 
 > Author: Shiffman, 2017
 >
-> Link: http://www.ijhpm.com/article_3320.html
+> DOI: [10.15171/IJHPM.2017.14](http://dx.doi.org/10.15171/ijhpm.2017.14)
 
 Contribution: 
 

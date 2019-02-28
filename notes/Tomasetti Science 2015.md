@@ -2,7 +2,7 @@
 
 > Author: Tomasetti et al, 2015
 >
-> Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588146/
+> DOI: [10.1126/science.1260825](https://dx.doi.org/10.1126%2Fscience.1260825)
 
 Contribution: 
 

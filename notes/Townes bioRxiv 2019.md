@@ -17,4 +17,4 @@ Methodology:
 Thoughts:
 
 - The generalized-PCA was pretty interesting, since I didn't know of its existence before. 
-- The background section was very helpful for me to read, as someone new to the field. It discusses the typical steps in scRNA-Seq data analysis and what's problematic about the methods currently used.
+- The background section was very helpful for me to read, as someone new to the field. It discusses the typical steps in scRNA-Seq data analysis, what's problematic about the methods currently used, and why these problems exist based on how the history of how these methods were developed.

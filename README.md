@@ -3,6 +3,7 @@ Inspired by [Daniel Seita](https://github.com/DanielTakeshi/Paper_Notes).
 
 In an effort to be more systematic and diligent about reading papers, I'm organizing notes for research papers that I've read in this repo.
 
+* [Feature Selection and Dimension Reduction for Single Cell RNA-Seq based on a Multinomial Model](https://github.com/albertkuo/paper_notes/blob/master/notes/Townes%20bioRxiv%202019.md) / Townes / 2019
 * [Genome-wide cell-free DNA fragmentation in patients with cancer](https://github.com/albertkuo/paper_notes/blob/master/notes/Cristiano%20Nature%202019.md) / Cristiano / 2019
 * [Deciphering Signatures of Mutational Processes Operative in Human Cancer](https://github.com/albertkuo/paper_notes/blob/master/notes/Alexandrov%20Cell%202013.md) / Alexandrov / 2013
 * [Detection and localization of surgically resectable cancers with a multi-analyte blood test](https://github.com/albertkuo/paper_notes/blob/master/notes/Cohen%20Science%202018.md) / Cohen / 2018

@@ -5,7 +5,7 @@ In an effort to be more systematic and diligent about reading papers, I'm organi
 
 **2020**
 
-* [Cancer Genome Landscapes](https://github.com/albertkuo/paper_notes/blob/master/notes/Vogelstein Science 2013.md) / Vogelstein / 2013
+* [Cancer Genome Landscapes](https://github.com/albertkuo/paper_notes/blob/master/notes/Vogelstein%20Science%202013.md) / Vogelstein / 2013
 
 **2019**
 

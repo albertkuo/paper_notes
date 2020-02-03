@@ -5,6 +5,7 @@ In an effort to be more systematic and diligent about reading papers, I'm organi
 
 **2020**
 
+* [A Unified Statistical Framework for Single Cell and Bulk RNA Sequencing Data](https://github.com/albertkuo/paper_notes/blob/master/notes/Zhu%20Ann%20Appl%20Stat%202018.md) / Zhu / 2018
 * [Cancer Genome Landscapes](https://github.com/albertkuo/paper_notes/blob/master/notes/Vogelstein%20Science%202013.md) / Vogelstein / 2013
 
 **2019**
@@ -18,3 +19,4 @@ In an effort to be more systematic and diligent about reading papers, I'm organi
 * [Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention](https://github.com/albertkuo/paper_notes/blob/master/notes/Tomasetti%20Science%202017.md) / Tomasetti / 2017
 * [Statistical Modeling: The Two Cultures](https://github.com/albertkuo/paper_notes/blob/master/notes/Breiman%20Statistical%20Science%202001.md) / Breiman / 2001
 * [Variation in cancer risk among tissues can be explained by the number of stem cell divisions](https://github.com/albertkuo/paper_notes/blob/master/notes/Tomasetti%20Science%202015.md) / Tomasetti / 2015
+

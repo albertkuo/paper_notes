@@ -2,7 +2,7 @@
 
 > Author: Zhu et al, 2018
 >
-> DOI:  10.1214/17-AOAS1110
+> DOI: https://doi.org/10.1214/17-AOAS1110
 
 Contribution: 
 

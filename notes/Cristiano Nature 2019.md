@@ -8,7 +8,7 @@ Contribution:
 
 - They use differences in fragmentation profiles of cell-free DNA to detect patients with cancer.
 
-Methodology: 
+Method: 
 
 - They use whole genome sequencing of cfDNA at 1-2x coverage for about 200 cancer and 200 healthy individuals.
 - They adjust for [biases due to GC content](http://statistics.berkeley.edu/tech-reports/804) using a locally weighted smoother (loess).

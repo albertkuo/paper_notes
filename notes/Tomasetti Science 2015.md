@@ -8,9 +8,9 @@ Contribution:
 
 * They argue that a major part of the variation in cancer risk between tissue types is due to DNA replication. As expected, there is a strong correlation between the number of stem cell divisions and lifetime cancer risk by tissue type.
 
-Methodology: 
+Method: 
 
-* In Figure 1, since $R=0.80​$, then $R^2 = 0.65​$ and 65% of the variation in cancer risk between tissues can be explained by differences in stem cell divisions. This is a basic statistical fact, but in this context, I see how it can easily be misinterpreted: saying "explained by" sounds causal, but it is not. 
+* In Figure 1, since $R=0.80$, then $R^2 = 0.65$ and 65% of the variation in cancer risk between tissues can be explained by differences in stem cell divisions. This is a basic statistical fact, but in this context, I see how it can easily be misinterpreted: saying "explained by" sounds causal, but it is not. 
 * For Figure 2, they used K-means clustering on "extra risk scores" (ERS), which is probably the most popular clustering method and something I'm almost sure I've used before. They also verified their results with [hierarchical clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering), which I'm not familiar with, but is also some unsupervised clustering algorithm.
 
 Thoughts:

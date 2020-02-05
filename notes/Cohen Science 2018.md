@@ -8,9 +8,9 @@ Contribution:
 
 * They created a blood test to detect the presence and type of 8 common cancers.
 
-Methodology: 
+Method: 
 
-* Most of the methodology is in the supplementary materials.
+* Most of the method is in the supplementary materials.
 * Classifying cancer was done using mutations and protein markers. Tissue recognition information was primarily found in the protein markers, since driver gene mutations are not usually tissue-specific.
 * For a given mutation in a sample, calculate the mutant allele frequency (MAF) = # of supermutants/# of UIDs. Then normalize the MAF according to how common the MAF is in the normal controls. Compare the MAF to reference distribution of MAF in normals vs cancer in training set. Calculate p-values (how likely you observe something > MAF under each distribution?) and take weighted log ratio of p-values (similar to log-likelihood ratio). The log ratio is called the omega-score. The omega-score used in classification seems to be the maximum omega score over all found mutations.
 * For mutations with omega-score > 1, check that they were not also identified in WBC (however, WBC was only available in 23% of cancer patients?), i.e. a result of Clonal Hematopoiesis of Indeterminate Potential. Mutation was excluded if the ratio of max MAF in plasma and max MAF in WBC was < 100. 

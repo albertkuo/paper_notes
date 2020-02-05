@@ -8,7 +8,7 @@ Contribution:
 
 - Current normalization techniques induce variability and distort data. They propose a multinomial model for UMI (unique molecular identifiers) data.
 
-Methodology: 
+Method: 
 
 - Replace normal null model with multinomial null model
 - GLM-PCA (generalized principal component analysis), and a fast approximation for GLM-PCA using deviance residuals

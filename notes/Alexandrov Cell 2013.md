@@ -10,7 +10,7 @@ Contribution:
 
 * They develop an approach to identify mutational processes/signatures.
 
-Methodology:
+Method:
 
 * They use nonnegative matrix factorization (NMF) to identify signatures from the resulting mixture of mutations.
 * They chose the number of mutational processes N based on the lowest reconstruction error on bootstrapped data and signature reproducibility.

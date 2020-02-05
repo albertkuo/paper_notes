@@ -8,7 +8,7 @@ Contribution:
 
 - This article is not technically part of the scientific literature, but it offers some examples and modeling to intuitively demonstrate how predictive algorithms based on biased datasets (in this case, police cases) can be very problematic.
 
-Methodology: 
+Method: 
 
 - They generate a synthetic population from the National Survey on Drug Use and Health to map drug use at a local level and compared that to the drug arrests made by the Oakland police department (Figure 1). Very interesting and illustrative.
 - They also demonstrate a feedback loop via simulation — where increased policing in a specified area naturally leads to a higher number of crime cases, which then leads to more recommendations to increase policing in that area (Figure 3).

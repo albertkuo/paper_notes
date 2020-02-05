@@ -8,7 +8,7 @@ Contribution:
 
 - They formulate a hierarchical model to use both single cell and bulk RNA-seq data.
 
-Methodology: 
+Method: 
 
 - They use a hierarchical model with a Gibbs-EM algorithm to estimate parameters.
 - They demonstrate their method with a simulation and application to data.

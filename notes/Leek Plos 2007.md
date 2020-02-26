@@ -10,10 +10,10 @@ Contribution:
 
 Method:
 
-* SVA estimates batch effects from the expression data and constructs surrogate variables for them.
+* SVA estimates batch effects from the expression data and constructs surrogate variables for them
 * There are 4 steps to the method:
-  1. Decomposition of residual expression matrix into orthogonal vectors, and determine the vectors that represent more variation than would be expected by chance.
-  2. Identify subset of genes significantly associated with the significant vectors.
+  1. Decomposition of residual expression matrix into orthogonal vectors, and determine the vectors that represent more variation than would be expected by chance
+  2. Identify subset of genes significantly associated with the significant vectors
   3. Build a surrogate variable using the expression of that subset of genes
   4. Include surrogate variable in subsequent analysis
 

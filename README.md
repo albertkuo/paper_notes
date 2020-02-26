@@ -5,6 +5,7 @@ In an effort to be more systematic about the papers I read, I've created this re
 
 **2020**
 
+* [Capturing Heterogeneity in Gene Expression Studies by Surrogate Variable Analysis](https://github.com/albertkuo/paper_notes/blob/master/notes/Leek%20Plos%202007.md) / Leek / 2007 (2)
 * [Tackling the widespread and critical impact of batch effects in high-throughput data](https://github.com/albertkuo/paper_notes/blob/master/notes/Leek%20Nature%202010.md) / Leek /2010 (3)
 * [The Holdout Randomization Test: Principled and Easy Black Box Feature Selection](https://github.com/albertkuo/paper_notes/blob/master/notes/Tansey%20Arxiv%202019.md) / Tansey / 2019 (2)
 * [A Unified Statistical Framework for Single Cell and Bulk RNA Sequencing Data](https://github.com/albertkuo/paper_notes/blob/master/notes/Zhu%20Ann%20Appl%20Stat%202018.md) / Zhu / 2018 (2)

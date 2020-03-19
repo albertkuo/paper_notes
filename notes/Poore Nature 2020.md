@@ -1,4 +1,4 @@
-# ****Microbiome analyses of blood and tissues suggest cancer diagnostic approach****
+# **Microbiome analyses of blood and tissues suggest cancer diagnostic approach**
 
 > Author: Poore, et al. 2020
 >

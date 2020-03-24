@@ -10,7 +10,7 @@ Contribution:
 
 Method: 
 
-- They use 4 public scRNA-seq datasets of reads. Each dataset consists of ~1000 to 3000 cells.
+- They use 4 public scRNA-seq datasets of reads (or UMIs?). Each dataset consists of ~1000 to 3000 cells.
 - They compare 4 different quantification tools: velocyto, kallisto | bustools, STARsolo, and alevin (Salmon). 
 - They compare different definitions of exonic and intronic regions, namely whether to use a "separate" or "collapse" approach. In the "separate" approach, every exonic transcript is considered separately when extracting intronic regions, so the introns can overlap with exons, while in the "collapse" approach, introns are defined as the remaining parts that are not in any of the exonic isoforms of a gene. A flanking sequence of length L - 1 (or some variants) is added to each side of the intron to account for reads mapping across exon/intron boundaries. 
 - They compare different reference indices (Table 2):

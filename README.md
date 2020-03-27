@@ -5,6 +5,7 @@ In an effort to be more systematic about the papers I read, I've created this re
 
 **2020**
 
+* [Insight into Cytokine-Receptor Interactions from Cytokine Engineering](https://github.com/albertkuo/paper_notes/blob/master/notes/Spangler%20AnnuRevImmunol%202015.md) / Spangler / 2015 (1)
 * [The Hallmarks of Cancer](https://github.com/albertkuo/paper_notes/blob/master/notes/Hanahan%20Cell%202000.md) / Hanahan / 2000 (2)
 * [Microbiome analyses of blood and tissues suggest cancer diagnostic approach](https://github.com/albertkuo/paper_notes/blob/master/notes/Poore%20Nature%202020.md) / Poore / 2020 (1)
 * [Preprocessing choices affect RNA velocity results for droplet scRNA-seq data](https://github.com/albertkuo/paper_notes/blob/master/notes/Soneson%20Biorxiv%202020.md) / Soneson / 2020 (3)

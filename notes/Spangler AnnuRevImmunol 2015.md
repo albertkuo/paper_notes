@@ -1,4 +1,4 @@
-# **Insight into Cytokine-Receptor Interactions from Cytokine Engineering**
+# **Insights into Cytokine-Receptor Interactions from Cytokine Engineering**
 
 > Author: Spangler, 2015
 >

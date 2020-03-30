@@ -33,5 +33,4 @@ Questions/Thoughts:
 * What is the purpose of estimating sequence uniqueness? [A: Figure 1].
 * What is the purpose of using alevin (I thought Salmon already gives counts?)?
 * It was also confusing trying to match the approaches from Table 2 to Table 3. 
-* How did they obtain UMI counts? I was under the impression that the datasets were reads.
 

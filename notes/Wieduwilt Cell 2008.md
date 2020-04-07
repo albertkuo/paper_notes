@@ -19,5 +19,4 @@ Notes:
 
 Thoughts:
 
-- This paper was interesting to read, but I think I'm lacking some context on how important/special EGFRs are in our understanding of cancer. Are they just one of a few things that has been well-studied, or are there many things like EGFRs that are also targets for cancer therapy?
-
+- This paper was interesting to read, but I think I'm lacking some context on how important/special EGFRs are in our understanding of cancer. Are they just one of a few things that has been well-studied, or are there many things like EGFRs that are also targets for cancer therapy? A: It's one of the ones that are better understood, especially with its connection to cancer.

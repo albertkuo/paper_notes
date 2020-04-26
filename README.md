@@ -5,7 +5,8 @@ In an effort to be more systematic about the papers I read, I've created this re
 
 **2020**
 
-* [Roles of eukaryotic topoisomerases in transcription, replication and genomic stability](https://github.com/albertkuo/paper_notes/blob/master/notes/Pommier%20Nature%202016.md) / Pommier/ 2016 (1)
+* [The impact of mitotic errors on cell proliferation and tumorigenesis](https://github.com/albertkuo/paper_notes/blob/master/notes/Levine%20Genes%202018.md) / Levine/ 2018 (1)
+*  [Roles of eukaryotic topoisomerases in transcription, replication and genomic stability](https://github.com/albertkuo/paper_notes/blob/master/notes/Pommier%20Nature%202016.md) / Pommier/ 2016 (1)
 * [Synthetic lethality as an engine for cancer drug target discovery](https://github.com/albertkuo/paper_notes/blob/master/notes/Huang%20Nature%202020.md) / Huang / 2020 (1)
 * [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://github.com/albertkuo/paper_notes/blob/master/notes/Ding%20Nature%20Biotech%202020.md) / Ding / 2020 (1)
 * [Tumor Metastasis: Molecular Insights and Evolving Paradigms](https://github.com/albertkuo/paper_notes/blob/master/notes/Valastyan%20Cell%202011.md) / Valastyan / 2011 (2)

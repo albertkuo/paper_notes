@@ -1,4 +1,4 @@
-# **The impact of mitotic errors on cell proliferation and tumorigenesis**
+# **The DNA Damage Response: Implications for Tumor Responses to Radiation and Chemotherapy**
 
 > Author: Goldstein and Kastan, 2015
 >

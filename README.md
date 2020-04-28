@@ -5,6 +5,8 @@ In an effort to be more systematic about the papers I read, I've created this re
 
 **2020**
 
+* [The DNA Damage Response: Implications for Tumor Responses to Radiation
+and Chemotherapy](https://github.com/albertkuo/paper_notes/blob/master/notes/Goldstein%20Annu%20Rev%20Med%202015.md) / Goldstein / 2015 (1)
 * [The impact of mitotic errors on cell proliferation and tumorigenesis](https://github.com/albertkuo/paper_notes/blob/master/notes/Levine%20Genes%202018.md) / Levine / 2018 (1)
 *  [Roles of eukaryotic topoisomerases in transcription, replication and genomic stability](https://github.com/albertkuo/paper_notes/blob/master/notes/Pommier%20Nature%202016.md) / Pommier / 2016 (1)
 * [Synthetic lethality as an engine for cancer drug target discovery](https://github.com/albertkuo/paper_notes/blob/master/notes/Huang%20Nature%202020.md) / Huang / 2020 (1)
